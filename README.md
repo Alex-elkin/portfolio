@@ -9,6 +9,6 @@
 Description
 
 *[Windows EXE](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/windows-amd64.zip)
-*[Mac App](https://github.com/Alex-elkin/portfolio/tree/main/src/spacegame)
+*[Mac App]()
 *[Linux Executable]()
-*[Source Code]()
+*[Source Code](https://github.com/Alex-elkin/portfolio/tree/main/src/spacegame)
