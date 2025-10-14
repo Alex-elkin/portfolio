@@ -8,7 +8,7 @@
 
 Description
 
-*[Windows EXE]()
+*[Windows EXE](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/windows-amd64.zip)
 *[Mac App]()
 *[Linux Executable]()
 *[Source Code]()
