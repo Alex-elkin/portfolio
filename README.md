@@ -17,4 +17,4 @@ October 14 2025
 * [Windows EXE](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/windows-amd64.zip)
 * [Mac App](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/windows-amd64.zip)
 * [Linux Executable](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/linux-amd64.zip)
-* [Source Code]([https://github.com/Alex-elkin/portfolio/tree/main/src/spacegame](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/spacegame.pde))
+* [Source Code](https://github.com/Alex-elkin/portfolio/tree/main/src/spacegame](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/spacegame.pde)(https://github.com/Alex-elkin/portfolio/tree/main/src/spacegame))
