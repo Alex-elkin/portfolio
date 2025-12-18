@@ -1,4 +1,5 @@
-# Alex's Game Dev Portfolio 2026
+# Programming 1 Portfolio
+# Alex Elkin
 
 ## Term 1 Projects
 
