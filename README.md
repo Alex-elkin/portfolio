@@ -1,8 +1,7 @@
 # Programming 1 Portfolio Alex Elkin
 
 ## Certifications
-[certification](![SpaceGame](https://github.com/Alex-elkin/portfolio/blob/main/images/space%20game.png?raw=true)
-)
+[certification](https://github.com/Alex-elkin/portfolio/blob/main/images/Alex%20Elkin_Game%20Development%20Fundamentals%201_12182025.pdf)
 
 ## Term 1 Projects
 
