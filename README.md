@@ -18,3 +18,8 @@ spacegame is a 2d game set in space where the player controls the spaceship shoo
 * [Mac App](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/windows-amd64.zip)
 * [Linux Executable](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/linux-amd64.zip)
 * [Source Code](https://github.com/Alex-elkin/portfolio/tree/main/src/spacegame](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/spacegame.pde)(https://github.com/Alex-elkin/portfolio/tree/main/src/spacegame))
+
+## Term 2 projects
+
+## The pit of despair
+
