@@ -20,7 +20,7 @@ spacegame is a 2d game set in space where the player controls the spaceship shoo
 
 ## The pit of despair
 
-![Lavar](https://github.com/Alex-elkin/portfolio/blob/main/lavar.png)
+![Lavar](https://github.com/Alex-elkin/portfolio/blob/main/images/lavar.png)
 
 The pit of despair is a platformer game with 3 bosses. I was in charge of one of the bosses, lavar. His abilities included lava waves, meteors, and meteor rains. He has a 2nd phase which is a lot harder in difficulty.
 
