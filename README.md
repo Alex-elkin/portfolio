@@ -10,8 +10,6 @@
 
 ![SpaceGame](https://github.com/Alex-elkin/portfolio/blob/main/images/space%20game.png?raw=true)
 
-Description
-
 spacegame is a 2d game set in space where the player controls the spaceship shooting lasers to destroy asteroids that might damage the player. I made it by my self in class with help from mr Kapptie.
 
 * [Windows EXE](https://github.com/Alex-elkin/portfolio/blob/main/src/spacegame/windows-amd64.zip)
@@ -22,4 +20,8 @@ spacegame is a 2d game set in space where the player controls the spaceship shoo
 ## Term 2 projects
 
 ## The pit of despair
+
+![Lavar](https://github.com/Alex-elkin/portfolio/blob/main/lavar.png)
+
+The pit of despair is a platformer game with 3 bosses. I was in charge of one of the bosses, lavar. His abilities included lava waves, meteors, and meteor rains. He has a 2nd phase which is a lot harder in difficulty.
 
